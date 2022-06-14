@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rtg1539/types/issues"
   },
-  "homepage": "https://github.com/rtg1539/types#readme"
+  "homepage": "https://github.com/rtg1539/types#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
 }
